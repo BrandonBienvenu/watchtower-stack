@@ -11,7 +11,8 @@ Une **stack de monitoring complète** pour surveiller vos serveurs Linux en temp
 
 - 📊 **Grafana** : dashboards interactifs et prêts à l’emploi  
 - ⚡ **Prometheus** : collecte et stockage des métriques  
-- 🖥️ **Node Exporter** : performance CPU, RAM, disque, réseau  
+- 🖥️ **Node Exporter** : performance CPU, RAM, disque, réseau
+- **Accédez au projet ici :** [GitHub Repo](https://github.com/BrandonBienvenu/-Grafana-Prometheus-and-Node-Exporter-)
 
 **Objectif :** Avoir une visibilité totale sur l’état et les performances d’un serveur.
 
