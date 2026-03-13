@@ -58,7 +58,8 @@ sudo systemctl enable prometheus-node-exporter
 ---
 Documentation complète
 📄 La documentation technique complète du projet est disponible ici — installation pas à pas, configuration Prometheus, création des dashboards Grafana et résolution des problèmes rencontrés.
-📥 Accéder à la documentation complète
+**[📥 Accéder à la documentation complète]
+(https://github.com/BrandonBienvenu/watchtower-stack/blob/main/Prometheus%20%2B%20Node%20Exporter%20%2B%20Grafana%20sur%20Ubuntu%20(VirtualBox).pdf)**
 ---
 Ce que j'ai appris
 Déploiement d'une stack de monitoring sur Linux
